@@ -1,0 +1,23 @@
+{
+  "name": "swap-aggregator-backend",
+  "version": "1.0.0",
+  "description": "![act-logo](https://github.com/nektos/act/wiki/img/logo-150.png)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RafaelPCoelho/swap-aggregator-backend.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RafaelPCoelho/swap-aggregator-backend/issues"
+  },
+  "homepage": "https://github.com/RafaelPCoelho/swap-aggregator-backend#readme",
+  "dependencies": {
+    "express": "^4.21.1"
+  }
+}
